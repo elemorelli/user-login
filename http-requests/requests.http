@@ -21,9 +21,9 @@ POST http://localhost:3000/auth/signin
 content-type: application/json
 
 {
-    "name": "userC",
-    "email": "user_c@domain.com",
-		"password": "SecretPassword3!"
+    "name": "user",
+    "email": "user_1@domain.com",
+		"password": "SecretPassword1!"
 }
 
 ###
@@ -32,7 +32,7 @@ content-type: application/json
 
 {
     "name": "userB",
-    "email": "user_b@domain.com",
-		"password": "SecretPassword2!"
+    "email": "user_1@domain.com",
+		"password": "SecretPassword1!"
 }
 
