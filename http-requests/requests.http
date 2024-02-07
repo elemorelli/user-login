@@ -4,6 +4,7 @@ content-type: application/json
 ###
 GET http://localhost:3000/secured-hello
 content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjIsInVzZXJuYW1lIjoidXNlcl9iQGRvbWFpbi5jb20iLCJpYXQiOjE3MDczMjczNDMsImV4cCI6MTcwNzMyNzQwM30.G_cTFR0IA1brBIlwyFtDJMuWxpSbI-wEVWd7tEdxLMI
 
 
 ###
